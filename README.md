@@ -66,8 +66,7 @@ g++ main.cpp -o srms
 ./srms
 Using Visual Studio / VS Code
 Create a C++ project
-Paste the code
-Build & run
+
 🧩 Code Structure
 
 
@@ -107,14 +106,4 @@ Enter your choice:
 📜 License
 This project is free to use for learning or academic purposes.
 👨‍💻 Author
-Your Name (replace this)
-
-
----
-
-If you want, I can also generate:
-
-✅ A *GitHub description*  
-✅ A *project banner*  
-✅ A *students.txt example file*  
-Just tell me!
+Your Name navadheep
